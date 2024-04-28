@@ -1,0 +1,70 @@
+Sure, here's the CSS extracted from the previous HTML code:
+
+```css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FF9800;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 20px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px 20px;
+    border: 1px solid #FF9800;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    background-color: #FF9800;
+    color: white;
+}
+
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #FF9800;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #F57C00;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+```
+
+This CSS file contains the styles used to format the landing page for Food Panda.
